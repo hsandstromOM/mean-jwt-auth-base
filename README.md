@@ -1,4 +1,4 @@
-# MEAN Stack Authentication
+# MEAN JWT Authentication
 
 To run, you just have MongoDB installed and running, and NodeJS installed.
 
